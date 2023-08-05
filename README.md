@@ -42,7 +42,7 @@ import MansyTMDBCore
 let moviesRepository = MoviesRepository()
 let movieRepository = MovieRepository()
 let genreRepository = GenresRepository()
-let networkManager = NetworkManager()
+let apiManager = ApiManager()
 ```
 
 - Ability to load movies, movie details, genres easily
