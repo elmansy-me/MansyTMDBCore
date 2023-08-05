@@ -130,7 +130,8 @@ ApiManager().apiCall(endPoint: SomeEndPoint.endPointName).sink { completion in
 }
 ```
 
-###Finally, 
-####Thank you for using MansyTMDBCore! 🎉
+##Finally,
+ 
+###Thank you for using MansyTMDBCore! 🎉
 
-### Connect with us on LinkedIn! 🔗 [elmansy](https://linkedin.com/in/elmansy)
+### Connect with me on LinkedIn! 🔗 [elmansy](https://linkedin.com/in/elmansy)
