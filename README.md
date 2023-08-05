@@ -130,6 +130,10 @@ ApiManager().apiCall(endPoint: SomeEndPoint.endPointName).sink { completion in
 }
 ```
 
+## Third party libraries
+
+- **Alamofire**: Simplify API calls and requests for seamless data retrieval.
+
 ## Finally,
  
 ### Thank you for using MansyTMDBCore! 🎉
